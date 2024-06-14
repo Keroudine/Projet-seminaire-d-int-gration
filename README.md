@@ -1,1 +1,3 @@
-# Projet-seminaire-d-int-gration
+# Projet-seminaire-d-int-gration avec Rstudio
+
+Le projet consiste en une analyse approfondie des indicateurs sociaux et économiques des départements français en lien avec le taux de pauvreté. À travers une approche basée sur l'analyse des composantes principales et la régression linéaire, les variables les plus significatives ont été identifiées et leur impact sur le taux de pauvreté a été étudié. Les résultats obtenus ont permis de mettre en évidence des variables clés influant sur le taux de pauvreté, soulignant notamment l'importance de l'insertion professionnelle des jeunes et de la situation des familles sans emploi. Cette analyse contribue à une meilleure compréhension des mécanismes sous-jacents au phénomène de pauvreté dans les départements français.
